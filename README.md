@@ -11,3 +11,4 @@ O nosso projeto tem como objetivo auxiliar a fertilização com base em resultad
 
 # Culturas
   Decidimos fazer a recomendação para quatro culturas diferentes: (ervilha, melancia, beterraba e beringela). Para isto definimos classes, em que cada classe apresentava as necessidades de fertilização de cada cultura, para os diferentes niveis de classes de fertilidade. Aqui foi onde tivemos mais dificuldade pois as tabelas com duas entradas foram trabalhosas de passar para classes.
+
